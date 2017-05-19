@@ -1,0 +1,9 @@
+Package: com.hackxhj.wechatjailbreak
+Name: wechatJailBreak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: yuhuajun
+Author: yuhuajun
+Section: Tweaks
